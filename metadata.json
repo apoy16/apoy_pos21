@@ -1,0 +1,6 @@
+{
+  "name": "UNIKMA E-Procurement",
+  "description": "Sistem Pengadaan Barang & Jasa UNIKMA dengan integrasi Barcode, Pembuatan Purchase Order, dan Log Audit Aktivitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
